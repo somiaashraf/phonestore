@@ -13,7 +13,7 @@ bg='#6B395F'
 fg='#ffffff'
 fgbl='black'
 wind =Tk()
-logo =PhotoImage(file='image\icon.gif')
+logo =PhotoImage(file='icon.gif')
 wind.title("welcome")
 wind.geometry("500x400")
 wind.resizable(False,False)
